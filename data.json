@@ -1,1 +1,38 @@
-{"settings":{"dashboardTitle":"ピクミン ダッシュボード","dashboardSubtitle":"今日の調査報告 — Today's Report"},"members":[{"id":"member-kaneko","name":"金児胤栄"},{"id":"member-yamazaki","name":"山崎紀史"},{"id":"member-ibaraki","name":"茨陸翔"},{"id":"member-yoshimasu","name":"吉増海斗"},{"id":"member-furuta","name":"古田大貴"}],"scores":{},"cases":[]}
+{
+  "settings": {
+    "dashboardTitle": "ピクミン ダッシュボード",
+    "dashboardSubtitle": "今日の調査報告 — Today's Report"
+  },
+  "members": [
+    {
+      "id": "member-kaneko",
+      "name": "金児胤栄"
+    },
+    {
+      "id": "member-yamazaki",
+      "name": "山崎紀史"
+    },
+    {
+      "id": "member-ibaraki",
+      "name": "茨陸翔"
+    },
+    {
+      "id": "member-yoshimasu",
+      "name": "吉増海斗"
+    },
+    {
+      "id": "member-furuta",
+      "name": "古田大貴"
+    }
+  ],
+  "scores": {
+    "2026-04-08": {
+      "member-kaneko": {
+        "red": 1,
+        "yellow": 0,
+        "blue": 0
+      }
+    }
+  },
+  "cases": []
+}
