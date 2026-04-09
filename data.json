@@ -34,7 +34,16 @@
       }
     }
   },
-  "cases": [],
+  "cases": [
+    {
+      "id": "CASE-1775696823448",
+      "createdAt": "2026-04-09",
+      "requestId": "https://v2.nrfc.jp/v2-offer-ui/#/?offer_id=5998493",
+      "memberName": "茨陸翔",
+      "method": "red",
+      "note": "車トスアップ"
+    }
+  ],
   "energy": {
     "2026-04-08": [
       "u-1775574909558-upwj7l",
