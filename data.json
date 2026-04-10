@@ -34,31 +34,14 @@
       }
     }
   },
-  "cases": [
-    {
-      "id": "CASE-1775697022663",
-      "createdAt": "2026-04-09",
-      "requestId": "https://v2.nrfc.jp/v2-offer-ui/#/?offer_id=5999064",
-      "memberName": "金児胤栄",
-      "method": "yellow",
-      "note": "至急現金化希望。\nニーズをフックに金曜日に出張近く回ってるので提案。\n出張査定のメリットプレゼン。\n理解いただき明後日出張へ。\nギターに対する共感多めで関係構築。"
-    },
-    {
-      "id": "CASE-1775696823448",
-      "createdAt": "2026-04-09",
-      "requestId": "https://v2.nrfc.jp/v2-offer-ui/#/?offer_id=5998493",
-      "memberName": "茨陸翔",
-      "method": "red",
-      "note": "車トスアップ"
-    }
-  ],
+  "cases": [],
   "energy": {
     "2026-04-08": [
       "u-1775574909558-upwj7l",
       "u-1775574947367-i13qnh"
     ],
-    "2026-04-09": [
-      "u-1775574947367-i13qnh"
+    "2026-04-10": [
+      "u-1775574909558-upwj7l"
     ]
   }
 }
