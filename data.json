@@ -41,7 +41,16 @@
       }
     }
   },
-  "cases": [],
+  "cases": [
+    {
+      "id": "CASE-1775887405518",
+      "createdAt": "2026-04-11",
+      "requestId": "ｖ",
+      "memberName": "金児胤栄",
+      "method": "red",
+      "note": ""
+    }
+  ],
   "energy": {
     "2026-04-08": [
       "u-1775574909558-upwj7l",
